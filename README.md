@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eman-azazizeh
-- 👀 I’m interested in Machine learning, computer vision , NLP , Deep learning  , and robotics .
-- 🌱 I’m currently learning pytorch ,ML.net ,TensorFlow ,MLOP .
+- 👀 I’m interested in Machine learning, computer vision , NLP ,llm, Deep learning  , and robotics .
+
 - 📫 How to reach me : emanaz2001@gmail.com
 
 <!---
